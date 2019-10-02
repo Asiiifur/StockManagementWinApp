@@ -1,0 +1,61 @@
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe.config
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.pdb
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csprojAssemblyReference.cache
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CetagoryForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CompanyForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Home.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemReportForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.LoginForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.HomeUpdatedForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Properties.Resources.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockInForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.errorStockOut.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockReportForm.resources
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.GenerateResource.cache
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CoreCompileInputs.cache
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.exe
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.pdb
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\bin\Debug\itextsharp.dll
+F:\BITM\DynamicDevelopers\Final Project\DynamicDevelopers\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CopyComplete
+F:\StockManagementWinApplication\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe.config
+F:\StockManagementWinApplication\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe
+F:\StockManagementWinApplication\StockManagementWinApp\bin\Debug\StockManagementWinApp.pdb
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.csprojAssemblyReference.cache
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.CompanyForm.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.Home.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.HomeUpdatedForm.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemForm.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemReportForm.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.LoginForm.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.Properties.Resources.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockInForm.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.errorStockOut.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockReportForm.resources
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.GenerateResource.cache
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CoreCompileInputs.cache
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CopyComplete
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.exe
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.pdb
+F:\StockManagementWinApplication\StockManagementWinApp\obj\Debug\StockManagementWinApp.CategoryForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe.config
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.exe
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\bin\Debug\StockManagementWinApp.pdb
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CategoryForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.CompanyForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Home.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.HomeUpdatedForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.ItemReportForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.LoginForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.Properties.Resources.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockInForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.errorStockOut.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.StockReportForm.resources
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.GenerateResource.cache
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CoreCompileInputs.cache
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csproj.CopyComplete
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.exe
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.pdb
+G:\MY PROJECT\StockManagementWinApp\StockManagementWinApp\obj\Debug\StockManagementWinApp.csprojAssemblyReference.cache
